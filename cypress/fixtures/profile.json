@@ -1,0 +1,7 @@
+{
+    "name": "Joe Mande",
+    "email": "roshan.nair@telus.com",
+    "password": "Panda@2022",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "invalid_email": "roshan.nair@telus.xxom"
+}
