@@ -1,0 +1,18 @@
+{
+    "baseUrl": "https://staging.yaraworks.com/",
+    "chromeWebSecurity": false,
+    "failOnStatusCode": false,
+    "defaultCommandTimeout": 10000,
+    "projectId": "fctybh",
+    "experimentalSessionAndOrigin": true,
+    "testFiles": [
+      "Yara_Regression_Chrome.spec.js",
+      "Yara_Regression_Edge.spec.js",
+      "Yara_Regression_Electron.spec.js",
+      "Yara_Regression_Firefox.spec.js",
+      "Yara_SmokeTest_multiDevice.spec.js",
+      "YaraAdmin_Accessibility_multiDevice.spec.js",
+      "YaraApp_Accessibility_multiDevice.spec.js"
+      ]
+   
+  }
